@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Maria Lopez",
+      "languages": "Spanish, French",
+      "rating": 4.9,
+      "studentsHelped": 150
+    },
+    {
+      "id": 2,
+      "name": "James Miller",
+      "languages": "English, German",
+      "rating": 4.8,
+      "studentsHelped": 120
+    },
+    {
+      "id": 3,
+      "name": "Olivia Taylor",
+      "languages": "French, Italian",
+      "rating": 4.7,
+      "studentsHelped": 100
+    },
+    {
+      "id": 4,
+      "name": "William Johnson",
+      "languages": "Mandarin, Cantonese",
+      "rating": 4.9,
+      "studentsHelped": 180
+    },
+    {
+      "id": 5,
+      "name": "Sophia Davis",
+      "languages": "Spanish, English",
+      "rating": 5.0,
+      "studentsHelped": 200
+    },
+    {
+      "id": 6,
+      "name": "David Garcia",
+      "languages": "Japanese, Korean",
+      "rating": 4.6,
+      "studentsHelped": 75
+    }
+  ]

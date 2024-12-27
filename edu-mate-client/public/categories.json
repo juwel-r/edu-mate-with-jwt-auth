@@ -1,0 +1,14 @@
+[
+  { "id": 1, "categoryName": "English" },
+  { "id": 2, "categoryName": "Spanish" },
+  { "id": 3, "categoryName": "French" },
+  { "id": 4, "categoryName": "German" },
+  { "id": 5, "categoryName": "Italian" },
+  { "id": 6, "categoryName": "Chinese" },
+  { "id": 7, "categoryName": "Arabic" },
+  { "id": 8, "categoryName": "Japanese" },
+  { "id": 9, "categoryName": "Portuguese" },
+  { "id": 10, "categoryName": "Korean" },
+  { "id": 11, "categoryName": "Russian" },
+  { "id": 12, "categoryName": "Hindi" }
+]
